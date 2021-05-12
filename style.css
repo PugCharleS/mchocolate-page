@@ -409,6 +409,10 @@ footer {
     color: white;
 }
 
+.card-body p{
+    font-size: 18px;
+}
+
 /* TERMINA PRODUCTOS */
 
 
