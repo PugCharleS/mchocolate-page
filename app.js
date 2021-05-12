@@ -150,3 +150,8 @@ const btnAction = e => {
     pintarCarrito()
   }
 }
+
+function comprar(){
+  alert("Felicidades!! has realizado tu compra con exito");
+  location.reload();
+}
